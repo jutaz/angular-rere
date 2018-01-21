@@ -1,0 +1,8 @@
+{
+  "angular-rere": {
+    "scripts": "angular-rere.js"
+  },
+  "angular-rere.min": {
+    "scripts": "angular-rere.min.js"
+  }
+}
